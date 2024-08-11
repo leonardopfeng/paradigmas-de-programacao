@@ -20,6 +20,5 @@ Este repositório contém exercícios e projetos desenvolvidos durante a discipl
 3. Execute o código utilizando java NomeDoArquivo
 ### Haskell
 1. Navegue até o diretório `haskell/`  no terminal
-2. Carregue o arquivo no ghci 
-	2. `ghci NomeDoArquivo.hs`
+2. Carregue o arquivo no ghci `ghci NomeDoArquivo.hs`
 3. Execute as funções direto no ghci

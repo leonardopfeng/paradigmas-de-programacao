@@ -42,6 +42,7 @@ O objetivo é comparar a eficiência da solução otimizada, para a não otimiza
 ## Resultados dos testes
 
 Testes realizados com N máximo sendo 10⁵;
+
 Os resultados podem ser visualizados, conforme a saída gerada pelo likwid, tanto em `v1_with_likwid/Resultados/`, quanto em `v2_with_likwid/Resultados/`
 
 - DP FLOPS
